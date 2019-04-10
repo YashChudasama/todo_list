@@ -1,0 +1,11 @@
+G:\Yash\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+G:\Yash\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+G:\Yash\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+G:\Yash\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+G:\Yash\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
